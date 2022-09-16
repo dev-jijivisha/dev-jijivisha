@@ -2,7 +2,7 @@
 =======================
 
 * 🌍  I'm based in Kathmandu
-* 🧠  I'm learning React, Nodejs , Web3
+* 🧠  I'm open to work on React, Nodejs , Web3 , Data 
 * ⚡  Floating in universe
 
 <a href="https://www.github.com/koans-dev" target="_blank" rel="noreferrer"><img
