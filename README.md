@@ -3,7 +3,7 @@
 
 * 🌍  I'm based in Kathmandu
 * 🧠  I'm open to work on React, Nodejs , Web3 , Data 
-* ⚡  Exploring in new techonology
+* ⚡  Exploring new techonology
 
 <a href="https://www.github.com/koans-dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/koans-dev?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
