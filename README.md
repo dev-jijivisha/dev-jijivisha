@@ -6,7 +6,7 @@
 * ⚡  Exploring new techonology
 
 <a href="https://www.github.com/dev-jijivisha" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/koans-dev?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/dev-jijivisha?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -36,6 +36,6 @@ src="https://img.shields.io/github/followers/koans-dev?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dev-jijivisha"><img src="https://github-readme-stats.vercel.app/api?username=koans-dev&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="dev-jijivisha's GitHub stats" /></a>
+<a href="http://www.github.com/dev-jijivisha"><img src="https://github-readme-stats.vercel.app/api?username=dev-jijivisha&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="dev-jijivisha's GitHub stats" /></a>
 
-<a href="http://www.github.com/dev-jijivisha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=koans-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/dev-jijivisha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-jijivisha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
